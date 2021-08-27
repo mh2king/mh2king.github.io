@@ -1,0 +1,29 @@
+.article_body{
+    color: white;
+}
+.article_header{
+    text-align: center;
+    margin-block-end: 1.5rem;
+}
+.article_title{
+    font-size: 5rem;
+}
+.article_subtitle{
+    font-size: 1.5rem;
+    color: white;
+    margin-block-end: 1rem;
+}
+.article_date time{
+    color: gainsboro;
+    font-size: 2.5rem;
+    word-spacing: 10px;
+}
+.article_poster img{
+    width:100%;
+    height: 100%;
+}
+.article_content p{
+    text-indent: 2rem;
+    font-size: 1.1rem;
+    line-height: 2rem;
+}
